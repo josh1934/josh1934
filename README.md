@@ -29,7 +29,13 @@
 <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Helpdesk-Support-blue?style=for-the-badge"/>
 </p>
-
+<p align="center">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=pcgamingwiki&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 ---
 
 ## 📊 My GitHub Stats
