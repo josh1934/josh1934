@@ -16,14 +16,6 @@
 - 🌱 Learning: Windows Administration, Linux, Networking, Security Fundamentals  
 - 🎯 Goal: Build a career in IT Support → Cybersecurity  
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-<a href="https://github.com/josh1934">GitHub</a> •
-<a href="https://linkedin.com/in/YOURPROFILE">LinkedIn</a>
-</p>
 
 ---
 
@@ -69,6 +61,16 @@
 
 ---
 
+---
+
+## 🌐 Connect with Me
+
 <p align="center">
-⭐️ From <a href="https://github.com/josh1934">josh1934</a>
+<a href="https://github.com/josh1934">GitHub</a> •
+<a href="https://linkedin.com/in/YOURPROFILE">LinkedIn</a>
+</p>
+
+
+<p align="center">
+⭐️ Created By: <a href="https://github.com/josh1934">josh1934</a>
 </p>
