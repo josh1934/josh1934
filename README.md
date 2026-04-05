@@ -61,12 +61,10 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
 <a href="https://github.com/josh1934">GitHub</a> •
 <a href="https://linkedin.com/in/YOURPROFILE">LinkedIn</a>
 </p>
 
 
-<p align="center">
 ⭐️ Created By: <a href="https://github.com/josh1934">josh1934</a>
 </p>
