@@ -35,11 +35,7 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=josh1934&show_icons=true&theme=radical&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh1934&layout=compact&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josh1934&theme=radical"/>
 </p>
 
 ---
