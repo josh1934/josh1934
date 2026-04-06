@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Active%20Directory-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge"/>
