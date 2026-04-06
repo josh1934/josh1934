@@ -22,19 +22,20 @@
 ## 🛠️ Technology Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Helpdesk-Support-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Active%20Directory-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Helpdesk-Support-000000?style=for-the-badge"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=pcgamingwiki&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hardware-000000?style=for-the-badge&logo=pcgamingwiki&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software-000000?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Skill-Programming-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white"       alt="Programming Badge">
 </p>
 ---
 
