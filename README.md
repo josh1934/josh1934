@@ -58,7 +58,7 @@
 
 - Gain hands-on experience in IT Help Desk roles  
 - Improve troubleshooting and customer support skills  
-- Earn certifications (CompTIA A+, Network+, Security+)  
+- Earn certifications (CCNA, Network+, Security+, etc)  
 - Transition into cybersecurity roles  
 
 ---
