@@ -72,5 +72,5 @@
 </p>
 
 
-⭐️ Created By: <a href="https://github.com/josh1934">josh1934</a>
+Created By: <a href="https://github.com/josh1934">josh1934</a>
 </p>
