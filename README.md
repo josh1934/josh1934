@@ -68,7 +68,7 @@
 ## 🌐 Connect with Me
 
 <a href="https://github.com/josh1934">GitHub</a> •
-<a href="https://linkedin.com/in/YOURPROFILE">LinkedIn</a>
+<a href="https://www.instagram.com/someonenamedjosh.369/">Instagram</a>
 </p>
 
 
