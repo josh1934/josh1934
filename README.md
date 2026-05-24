@@ -8,18 +8,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Welcome%20to%20Josh's%20Profile&fontSize=35&fontColor=ffffff"/>
 </p>
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 Cybersecurity student  
-- 💼 Currently seeking an **IT Help Desk position**  
-- 🔧 Strong interest in troubleshooting, system support, and networking  
-- 🌱 Learning: Windows Administration, Linux, Networking, Security Fundamentals  
-- 🎯 Goal: Build a career in IT Support → Cybersecurity  
+- Cybersecurity student  
+- Currently seeking an **IT Help Desk position**  
+- Strong interest in troubleshooting, system support, and networking  
+- Learning: Windows Administration, Linux, Networking, Security Fundamentals  
+- Goal: Build a career in IT Support → Cybersecurity  
 
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -55,7 +55,7 @@
 
 ---
 
-## 🚀 Goals
+## Goals
 
 - Gain hands-on experience in IT Help Desk roles  
 - Improve troubleshooting and customer support skills  
@@ -65,7 +65,7 @@
 ---
 
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <a href="https://github.com/josh1934">GitHub</a> •
 <a href="https://www.instagram.com/someonenamedjosh.369/">Instagram</a> •
